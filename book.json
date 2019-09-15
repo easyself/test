@@ -12,7 +12,7 @@
             "weibo": null
         },
         "sidebar": {
-            "Chengwei's Blog": "http://www.chengweiyang.cn"
+            "Google": "http://www.google.com"
         }
     },
     "output": "../test-gh-pages",
@@ -28,14 +28,6 @@
         },
         "pageNumbers": false,
         "paperSize": "a4"
-    },
-    "plugins": [
-        "disqus"
-    ],
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "introducetogitbook"
-        }
     },
     "title": "Sample GitBook",
     "variables": {}
